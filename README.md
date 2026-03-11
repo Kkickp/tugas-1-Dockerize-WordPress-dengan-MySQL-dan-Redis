@@ -73,7 +73,7 @@ Digunakan sebagai **object cache** untuk meningkatkan performa WordPress.
 ## 1. Clone Repository
 
 ```
-git clone https://github.com/username/wordpress-docker-compose.git
+git clone https://github.com/Kkickp/tugas-1-Dockerize-WordPress-dengan-MySQL-dan-Redis
 cd wordpress-docker-compose
 ```
 
