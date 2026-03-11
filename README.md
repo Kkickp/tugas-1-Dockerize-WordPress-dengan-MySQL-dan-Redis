@@ -203,26 +203,3 @@ Redis digunakan sebagai cache untuk:
 * mempercepat loading website
 * mengurangi query database
 * meningkatkan performa WordPress
-
----
-
-# 📦 Containers
-
-Project ini menjalankan 3 container:
-
-| Container       | Image            | Fungsi        |
-| --------------- | ---------------- | ------------- |
-| wordpress_app   | wordpress:latest | CMS WordPress |
-| wordpress_mysql | mysql:5.7        | Database      |
-| wordpress_redis | redis:alpine     | Cache         |
-
----
-
-# 📚 Learning Outcomes
-
-Setelah menyelesaikan project ini, mahasiswa memahami:
-
-* Docker Compose multi-container setup
-* Docker networking
-* Volume persistence
-* Redis caching untuk WordPress
